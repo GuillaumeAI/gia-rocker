@@ -1,0 +1,2 @@
+export dockertag=guillaumeai/server:gupyter-tf-ds2
+export containername=gupy-220322
