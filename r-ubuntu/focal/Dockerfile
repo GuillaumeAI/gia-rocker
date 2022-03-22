@@ -1,6 +1,8 @@
 ## Emacs, make this -*- mode: sh; -*-
 
-FROM ubuntu:focal
+# FROM ubuntu:focal
+FROM jgwill/ubuntu:20.04
+#docker pull jgwill/ubuntu:20.04
 
 LABEL org.label-schema.license="GPL-2.0" \
       org.label-schema.vcs-url="https://github.com/rocker-org/r-ubuntu" \
